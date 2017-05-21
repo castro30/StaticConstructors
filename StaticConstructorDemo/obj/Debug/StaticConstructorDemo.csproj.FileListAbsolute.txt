@@ -1,0 +1,12 @@
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.exe.config
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.exe
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.pdb
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.csprojResolveAssemblyReference.cache
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.exe
+C:\Temp\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.pdb
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.exe.config
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.exe
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\bin\Debug\StaticConstructorDemo.pdb
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.csprojResolveAssemblyReference.cache
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.exe
+C:\Temp\AssignmentWeek2\StaticConstructorDemo\StaticConstructorDemo\obj\Debug\StaticConstructorDemo.pdb
